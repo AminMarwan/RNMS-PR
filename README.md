@@ -1,1 +1,1 @@
-#  Remote Internet Monitoring System using Prometheus on Raspberry-PI
+#  Remote Network Monitoring System using Prometheus on Raspberry-PI
